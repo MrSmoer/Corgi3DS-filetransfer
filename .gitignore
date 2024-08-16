@@ -2,4 +2,4 @@
 *.elf
 *.smdh
 build/
-result/
+result

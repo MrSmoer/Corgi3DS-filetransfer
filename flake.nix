@@ -1,7 +1,7 @@
 {
   description = "Filetransfer client app for modded Corgi3DS";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-22.05";
+    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     devkitnix = {
       url = "github:mrsmoer/devkitnix";
